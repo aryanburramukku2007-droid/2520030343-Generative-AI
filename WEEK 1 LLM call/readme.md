@@ -23,15 +23,11 @@ In the .env file, I saved my API key like this:
 For this experiment, I used the OpenAI API. My ChatGPT account and OpenAI API credits are separate, so API billing or credits may be needed.
 
 In the main.py program:
-
 1. It loads the API key from the .env file.
-
 2. It creates the OpenAI client.
-
 3. It sends the prompt to the OpenAI model.
-
 4. It receives and prints the AI answer.
 
 I ran the program using:
 
-python main.py
+       python main.py
