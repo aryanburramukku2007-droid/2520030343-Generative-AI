@@ -11,14 +11,18 @@ For this project, I created these files:
 How to run
 
 First, I downloaded and installed Ollama on my computer. Then I checked the version in PowerShell:
+      
       ollama --version
 
 After that, I downloaded the Llama 3.2 model:
+      
       ollama pull llama3.2
 
 I installed the Python packages using:
+      
       pip install -r requirements.txt
 Then I ran the program using:
+      
       python main.py
 
 The program asks me to choose either gemini or ollama. After selecting one provider, I enter my question and the AI gives the response.
