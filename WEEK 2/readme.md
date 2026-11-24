@@ -1,5 +1,5 @@
-## WEEK-2 Gemini and Ollama
-# Objective: The main objective of this project is to create one LLM client that can work with both Gemini and Ollama. Gemini works through an API key, and Ollama runs the Llama 3.2 model locally on my computer.
+# WEEK-2 Gemini and Ollama
+## Objective: The main objective of this project is to create one LLM client that can work with both Gemini and Ollama. Gemini works through an API key, and Ollama runs the Llama 3.2 model locally on my computer.
 
 For this project, I created these files:
  1. .env -> Used to store my Gemini API key safely.
